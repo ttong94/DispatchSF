@@ -1,6 +1,6 @@
 ![logo](https://github.com/ttong94/DispatchSF/blob/main/src/ui/src/assets/images/logo_propeller.svg)
 
-DispatchSF is a Dispatch San Francisco is a full-stack practical project to develop a parcel service website using robot and drone for the residents in San Francisco. This project was designed to have a multi-page interactive website for users to register, login, fill package information, select delivery route, mail and track their packages in real time in San Francisco.
+DispatchSF is a full-stack practical project to develop a parcel service website using robot and drone for the residents in San Francisco. This project was designed to have a multi-page interactive website for users to register, login, fill package information, select delivery route, mail and track their packages in real time in San Francisco.
 Used MVP (Minimum Viable Product) and Agile Development Pattern to manage our project with 11 team members and participated in workflow design of the project.
 
 Back End：
