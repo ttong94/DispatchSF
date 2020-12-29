@@ -16,7 +16,12 @@ Front end:
 * Created a multi-page user ordering web flow to let users fill package information and select the delivery option from a list of available options.
 * Constructed 3 layers of React components to realize data communication (can be improved through Redux to reduce the complexity).
 * Created a global ”step” variable to handle UI flow.
+* Used Google Directions  API to show delivery routes and current location of user's package on the map.
+* Utilized Axios to send requests and receive responses from back end.
 
-
-
+Google API:
+* Rendered different delivery routes with Google Directions API
+* Used DirectionsService in Google Maps API to calculate robot’s routes between two points.
+* Used DirectionsRenderer to display the robot routes.
+* Used Polyline to display drone’s routes
 
